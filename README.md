@@ -20,9 +20,12 @@ There are many companies within the RegTech domain, and they all have their own 
 As of 2019, they were focused on building a UAT environment, while also adding testing facilities for account opening, data processing, same-day response messages, and reconciliation testing, among other projects. They are constantly setting up new partnerships (they currently have partnered with 12) with vendors and infrastructure providers to be able to meet the demand from their clients who are constantly looking to reduce their reporting burden. 
 
 # Recommendations
-I would like to see REGIS-TR have a counterpart in the USA. I guess it's no surprise so many of the RegTech companies I found were European by nature, given how much stricter they are when it comes to regulations. It also seems like their regulations don't change (at least not as much) with every new administration, and that consistency is key to a successful regulatory environment.
+I would like to see REGIS-TR have a counterpart in the USA. A more streamlined regulatory environment would mean less lost claims, and would save time and money for those reporting an issue as well as those solving them. 
+I guess it's no surprise so many of the RegTech companies I found were European by nature, given how much stricter they are when it comes to regulations. It also seems like their regulations don't change (at least not as much) with every new administration, and that consistency is key to a successful regulatory environment.
 
 
 # Bibliography
 
-Frankenfield, J. "What you should know about RegTech",https://www.investopedia.com/terms/r/regtech.asp)
+Arner D.W., Barberis, J., Buckley, R. P. "FinTech and RegTech in a Nutshell, and the Future in a Sandbox". Published in July, 2017 on CFA website: https://www.cfainstitute.org/research/foundation/2017/fintech-and-regtech-in-a-nutshell-and-the-future-in-a-sandbox
+Frankenfield, J. "What you should know about RegTech". Published on April 27, 2019 on Investopedia: https://www.investopedia.com/terms/r/regtech.asp
+Sharma, G. "10 RegTech Companies Making Waves in the Industry". Published on February 22, 2018. Found on Disruptor Daily: https://www.disruptordaily.com/10-regtech-companies-making-waves-industry/
